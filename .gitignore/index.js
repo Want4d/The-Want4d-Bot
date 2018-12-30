@@ -175,4 +175,4 @@ Bot.on('message', message => {
 
 });
 
-Bot.login(Token);
+Bot.login(proccess.env.TOKEN);
