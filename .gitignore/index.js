@@ -1,5 +1,4 @@
 const Discord = require('Discord.js');
-const Token = "NTIyNTY4MzAwMjUzODA2NTky.DvM6EQ.xgz-T7QLRaE2Qxe95mAnL812At8";
 const Bot = new Discord.Client();
 const Prefix = "."
 const hey = require("./Commands/hey.js");
